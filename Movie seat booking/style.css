@@ -1,3 +1,4 @@
+/*fonts */
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 * {
@@ -55,6 +56,7 @@ body {
     margin-bottom: 50px;
 }
 
+/*seats */
 .seat {
     background-color: var(--free-seat);
     height: 12px;

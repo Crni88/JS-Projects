@@ -3,6 +3,7 @@
 * {
   box-sizing: border-box;
 }
+
 /*declaring variables*/
 :root {
   --success-color: #2ecc71;
@@ -31,6 +32,7 @@ h2 {
   margin: 0 0 20px;
 }
 
+/*form*/
 .form {
   padding: 30px 40px;
 }
@@ -59,6 +61,7 @@ h2 {
   outline: 0;
   border-color: #777;
 }
+
 /* using variables*/
 .form-control.success input {
   border-color: var(--success-color);
