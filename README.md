@@ -32,4 +32,7 @@ A game of Hangman made in JS. I used SVG elements (line, circle) to draw the fig
 A program that finds meals based upon what you search. I used TheMealsDB API to fetch and load meals. When you find your meal, it displays the process of cooking and ingredients. 
 (https://www.themealdb.com/api.php)
 
+<b>#Nav Bar</b>
+Stylish looking navbar, which utilizes duotone icons from font awesome and CSS transitions. It is fully responsive. 
+
 
