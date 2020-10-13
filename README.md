@@ -28,11 +28,11 @@ A custom video player, implementing .play( ) and .pause() functions. In addition
 A game of Hangman made in JS. I used SVG elements (line, circle) to draw the figure. Words are fetched from the random word generator api. Displays the message if you won/lost.
 (https://random-word-api.herokuapp.com/home)
 
-<b>#Meal Finder</b>
+<b>#Meal Finder</b> <br/>
 A program that finds meals based upon what you search. I used TheMealsDB API to fetch and load meals. When you find your meal, it displays the process of cooking and ingredients. 
 (https://www.themealdb.com/api.php)
 
-<b>#Nav Bar</b>
+<b>#Nav Bar</b><br/>
 Stylish looking navbar, which utilizes duotone icons from font awesome and CSS transitions. It is fully responsive. 
 
 
